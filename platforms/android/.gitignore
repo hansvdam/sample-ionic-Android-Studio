@@ -4,6 +4,7 @@ local.properties
 /gradlew
 /gradlew.bat
 /gradle
+.gradle
 # Ant builds
 ant-built
 ant-gen
@@ -11,4 +12,8 @@ ant-gen
 gen
 out
 # Gradle builds
-/build
+build
+# intellij files
+*.iml
+.idea
+
