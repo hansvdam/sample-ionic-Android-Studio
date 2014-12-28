@@ -15,4 +15,4 @@ for (subproject in getProjectList()) {
     include subproject
 }
 
-include ':'
+include ':',':CordovaLib'
